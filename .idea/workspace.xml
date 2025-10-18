@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3042a2e-e7e9-420d-8f82-fc27be136435" name="Changes" comment="synchronizer classes update">
+      <change beforePath="$PROJECT_DIR$/semaphore/DecrementClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/semaphore/DecrementClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semaphore/IncrementClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/semaphore/IncrementClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semaphore/SemaphoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/semaphore/SemaphoreTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/synchronize/DecrementClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/synchronize/IncrementClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/synchronize/SharedResourceAccess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/synchronize/SynchronizedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/synchronize/WithOutSynchronizedTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2U2Uu5RV4BWG9woLIoh257ob0Qg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CFExamples.executor": "Run",
+    "Application.CacheTest.executor": "Run",
+    "Application.ClassFileTest.executor": "Run",
+    "Application.ExecutorVirtualThread.executor": "Run",
+    "Application.LongRunningTask.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.SCRandomTasks (1).executor": "Run",
+    "Application.SCRandomTasks.executor": "Run",
+    "Application.ScopedDefaultValue.executor": "Run",
+    "Application.ScopedValueCall.executor": "Run",
+    "Application.ScopedValueNestedScope.executor": "Run",
+    "Application.ScopedValueScope.executor": "Run",
+    "Application.ScopedValueTest.executor": "Run",
+    "Application.StructuredConcurrencyOnSuccessTest.executor": "Run",
+    "Application.StructuredConcurrencyTest.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.VirtualThread1.executor": "Run",
+    "Application.VirtualThread2.executor": "Run",
+    "Application.VirtualThread3.executor": "Run",
+    "Application.VirtualThread4.executor": "Run",
+    "Application.VirtualThread5.executor": "Run",
+    "Application.Volatile3Example.executor": "Run",
+    "Application.VolatileExample3.executor": "Run",
+    "Application.VrtualThread6.executor": "Run",
+    "Application.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/sumith/Documents/Projects/concurrency_and_multithreading2",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/structure-concurrency/src" />
+      <recent name="$PROJECT_DIR$/structure-concurrency" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/virtual-threads/src" />
+      <recent name="$PROJECT_DIR$/structure-concurrency/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Complete_Concurrent_Collections.structure_concurrency" />
+      <recent name="Complete_Concurrent_Collections.completable_future" />
+      <recent name="Complete_Concurrent_Collections.SingletonPattern" />
+      <recent name="Complete_Concurrent_Collections.Thread_specific_order" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClassFileTest">
+    <configuration name="ClassFileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Complete_Concurrent_Collections.class_file_api.ClassFileTest" />
+      <module name="concurrency&amp;multithreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Complete_Concurrent_Collections.class_file_api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VirtualThread3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VirtualThread3" />
+      <module name="virtual-threads" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VirtualThread4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VirtualThread4" />
+      <module name="virtual-threads" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VirtualThread5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VirtualThread5" />
+      <module name="virtual-threads" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VrtualThread6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VrtualThread6" />
+      <module name="virtual-threads" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClassFileTest" />
+      <item itemvalue="Application.VirtualThread3" />
+      <item itemvalue="Application.VirtualThread4" />
+      <item itemvalue="Application.VirtualThread5" />
+      <item itemvalue="Application.VrtualThread6" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClassFileTest" />
+        <item itemvalue="Application.VrtualThread6" />
+        <item itemvalue="Application.VirtualThread5" />
+        <item itemvalue="Application.VirtualThread4" />
+        <item itemvalue="Application.VirtualThread3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3042a2e-e7e9-420d-8f82-fc27be136435" name="Changes" comment="" />
+      <created>1692137388884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692137388884</updated>
+      <workItem from="1706356084416" duration="240000" />
+      <workItem from="1706356333025" duration="6767000" />
+    </task>
+    <task id="LOCAL-00001" summary="synchronizer classes update">
+      <option name="closed" value="true" />
+      <created>1692520968125</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692520968125</updated>
+    </task>
+    <task id="LOCAL-00002" summary="synchronizer classes update">
+      <option name="closed" value="true" />
+      <created>1692521068236</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692521068236</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="synchronizer classes update" />
+    <option name="LAST_COMMIT_MESSAGE" value="synchronizer classes update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/semaphore/SemaphoreExample.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/thread_related/ThreadInterruptTest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/structure_concurrency/main.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/structure_concurrency/main.java</url>
+          <line>13</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

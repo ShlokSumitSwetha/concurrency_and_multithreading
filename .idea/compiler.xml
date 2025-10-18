@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="concurrency&amp;multithreading" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="--enable-preview --source 21" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="concurrency&amp;multithreading" options="--enable-preview --source 21 --add-exports java.base/jdk.internal.classfile=ALL-UNNAMED --add-exports java.base/jdk.internal.classfile.constantpool=ALL-UNNAMED" />
+    </option>
+  </component>
+</project>

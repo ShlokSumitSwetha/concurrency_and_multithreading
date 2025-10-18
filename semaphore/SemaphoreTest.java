@@ -9,10 +9,17 @@ public class SemaphoreTest {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		Semaphore semaphore=new Semaphore(0);
+		Semaphore semaphore=new Semaphore(1);
 		System.out.println("Starting Semaphore Example");
-		new IncrementClass(semaphore);
-		new DecrementClass(semaphore);
+
+
+		Thread t1=new Thread(new IncrementClass(semaphore));
+		t1.setName("Increment Thread");
+		t1.start();
+
+		Thread t2 = new Thread(new DecrementClass(semaphore));
+		t2.setName("Decrement Thread");
+		t2.start();
 	}
 }
 

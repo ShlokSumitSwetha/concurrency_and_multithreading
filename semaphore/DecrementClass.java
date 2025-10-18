@@ -4,14 +4,9 @@ import java.util.concurrent.Semaphore;
 
 public class DecrementClass implements Runnable{
 	Semaphore semaphore;
-	Thread t;
 	
 	public DecrementClass(Semaphore semaphore){
 		this.semaphore=semaphore;
-		t=new Thread(this);
-		t.setName("Decrement Thread");
-		t.setPriority(4);
-		t.start();
 	}
 
 	
